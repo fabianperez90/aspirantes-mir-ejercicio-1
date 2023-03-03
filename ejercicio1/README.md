@@ -1,0 +1,21 @@
+-git pwd
+-git mkdir
+-cd ejercicios/
+-code  .
+-git config --global user.name Fabian Perez
+-git config --global user.email fabian.perez1032@gmail.com
+-git init
+-git add .
+-git commit -m "Versión inicial"
+-code   .
+-git add .
+-git commit -m "Agrega solución primer ejercicio"
+-git status
+-code .
+-ssh-keygen -t rsa key pair.
+-ssh-keygen -t rsa -b 4096 -C "fabian.perez1032@gmail.com"
+-$ cat ~/.ssh/id_rsa.pub
+-git init
+-code .
+-git add .
+-git commit -m "Cambios"
